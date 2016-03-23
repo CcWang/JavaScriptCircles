@@ -1,0 +1,10 @@
+* {
+	width: 95%;
+	height: 95%;
+}
+
+svg {
+	width: inherit;
+	height: inherit;
+	border: 1px solid gray;
+}
